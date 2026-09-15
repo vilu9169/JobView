@@ -1,0 +1,122 @@
+[
+  {
+    "gmailMessageId": "fixture-northstar-confirmation-v1",
+    "gmailThreadId": "fixture-thread-northstar-frontend",
+    "senderName": "Northstar Labs Hiring Team",
+    "senderEmail": "hiring@northstar.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Application received: Frontend Engineer at Northstar Labs",
+    "receivedAt": "2026-09-01T08:42:00Z",
+    "snippet": "Thank you for applying to Northstar Labs. Your application is with our hiring team.",
+    "bodyText": "Hi Alex,\n\nThank you for applying for the Frontend Engineer position at Northstar Labs. We have received your application and portfolio. Our hiring team will review them this week.\n\nCompany: Northstar Labs\nRole: Frontend Engineer\nLocation: Stockholm, Sweden · Hybrid\n\nThere is nothing else you need to do right now. We will email you when there is an update.\n\nWarm regards,\nNorthstar Labs Hiring Team\n-- \nThis fictional message is part of the JobView demo dataset.",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-harbor-confirmation-v1",
+    "gmailThreadId": "fixture-thread-harbor-data",
+    "senderName": "Harbor Analytics Careers",
+    "senderEmail": "careers@harbor.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Application confirmation: Data Engineer at Harbor Analytics",
+    "receivedAt": "2026-09-02T12:18:00Z",
+    "snippet": "Your application for Data Engineer has arrived safely.",
+    "bodyText": "Hello Alex,\n\nThank you for applying. We have received your application for the Data Engineer role at Harbor Analytics.\n\nCompany: Harbor Analytics\nRole: Data Engineer\nLocation: Gothenburg, Sweden · Remote friendly\n\nOur team will review your experience in data platforms and get back to you.\n\nBest,\nHarbor Analytics Careers",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-northstar-recruiter-v1",
+    "gmailThreadId": "fixture-thread-northstar-frontend",
+    "senderName": "Mira West · Talent Acquisition",
+    "senderEmail": "mira.west@northstar.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "A quick introduction: Frontend Engineer at Northstar Labs",
+    "receivedAt": "2026-09-04T09:15:00Z",
+    "snippet": "I am the recruiter supporting this role. I would love to hear more about your recent work.",
+    "bodyText": "Hi Alex,\n\nI'm Mira, the recruiter supporting your application for the Frontend Engineer role. Your work on accessible interfaces caught our attention.\n\nWould you like to schedule a call? Please reply with a few times that work for you next week. Reply by 2026-09-09.\n\nCompany: Northstar Labs\nRole: Frontend Engineer\n\nBest,\nMira West\nTalent Acquisition, Northstar Labs\n\nOn Tuesday, September 1, 2026, Northstar Labs wrote:\n> Thank you for applying. We have received your application.",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-community-case-study-v1",
+    "gmailThreadId": "fixture-thread-community-session",
+    "senderName": "Riverbend Design Community",
+    "senderEmail": "hello@riverbend-community.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Join Thursday's community case study",
+    "receivedAt": "2026-09-05T16:00:00Z",
+    "snippet": "A community discussion about making local parks more accessible.",
+    "bodyText": "Hello friends,\n\nOur next community case study explores accessible paths in urban parks. Join us for an open discussion on Thursday. Unfortunately the original venue is unavailable, so we will meet online.\n\nThis is a free community session. Everyone is welcome.\n\nRiverbend Design Community",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-pinecone-rejection-v1",
+    "gmailThreadId": "fixture-thread-pinecone-design",
+    "senderName": "Pinecone Studio Hiring Team",
+    "senderEmail": "hiring@pinecone-studio.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "An update on your application: Product Designer at Pinecone Studio",
+    "receivedAt": "2026-09-06T14:25:00Z",
+    "snippet": "Thank you for your interest. We have decided not to proceed with your application.",
+    "bodyText": "Hi Alex,\n\nThank you for the time you invested in your application and portfolio review. Unfortunately, we have decided not to proceed with your application for the Product Designer position. We will be moving forward with another candidate whose experience is closer to this team's current needs.\n\nCompany: Pinecone Studio\nRole: Product Designer\n\nWe appreciate your interest and wish you the best with your search.\n\nKind regards,\nPinecone Studio Hiring Team",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-harbor-assessment-v1",
+    "gmailThreadId": "fixture-thread-harbor-data",
+    "senderName": "Elliot Reed · Harbor Analytics",
+    "senderEmail": "hiring@harbor.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Technical assessment: Data Engineer at Harbor Analytics",
+    "receivedAt": "2026-09-07T10:30:00Z",
+    "snippet": "The next step is a short take-home assignment. Please submit by September 11.",
+    "bodyText": null,
+    "bodyHtml": "<!doctype html><html><head><style>body { font-family: sans-serif; }</style></head><body><p>Hi Alex,</p><p>Thank you for your application. The next step in our hiring process is a short <strong>technical assessment</strong>.</p><p>Please complete the take-home assignment: outline a reliable daily data pipeline and describe how you would handle late &amp; duplicate records. We expect this to take around 90 minutes.</p><p>Company: Harbor Analytics<br>Role: Data Engineer</p><p>Submit by 2026-09-11. Please reply to this message with your written approach. No attachments need to be downloaded to read this fictional exercise.</p><p>We are interested in your reasoning and tradeoffs. Let us know if you need more time.</p><p>Best,<br>Elliot Reed<br>Harbor Analytics Hiring Team</p></body></html>"
+  },
+  {
+    "gmailMessageId": "fixture-lantern-receipt-v1",
+    "gmailThreadId": "fixture-thread-lantern-order",
+    "senderName": "Lantern Books",
+    "senderEmail": "receipts@lantern-books.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Your receipt from Lantern Books · LB-2048",
+    "receivedAt": "2026-09-07T18:12:00Z",
+    "snippet": "Thank you for your purchase. Your total was 249 SEK.",
+    "bodyText": "Hello Alex,\n\nThank you for your purchase at Lantern Books.\n\nOrder: LB-2048\nItem: A Field Guide to Quiet Places\nTotal paid: 249 SEK\nPayment status: Paid\n\nThis is your receipt. Your order has been sent to our packing team.\n\nLantern Books Customer Care",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-northstar-interview-v1",
+    "gmailThreadId": "fixture-thread-northstar-frontend",
+    "senderName": "Mira West · Northstar Labs",
+    "senderEmail": "mira.west@northstar.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Interview invitation: Frontend Engineer at Northstar Labs",
+    "receivedAt": "2026-09-08T07:50:00Z",
+    "snippet": "We would like to invite you to a 45-minute interview with our product engineering team.",
+    "bodyText": "Hi Alex,\n\nOur hiring team enjoyed learning about your recent work and would like to invite you to a 45-minute interview for the Frontend Engineer role.\n\nPlease reply with your availability for September 10 or 11. Reply by 2026-09-09 so that we can confirm a time. The conversation will cover your approach to React, accessibility, and working with designers.\n\nCompany: Northstar Labs\nRole: Frontend Engineer\n\nNo preparation or presentation is required. We look forward to meeting you.\n\nBest,\nMira\n\nOn Friday, September 4, 2026, Alex wrote:\n> Thank you for getting in touch. I would love to learn more.",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-fjord-offer-v1",
+    "gmailThreadId": "fixture-thread-fjord-backend",
+    "senderName": "Fjord Systems Hiring Team",
+    "senderEmail": "hiring@fjord-systems.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Job offer: Backend Engineer at Fjord Systems",
+    "receivedAt": "2026-09-08T08:20:00Z",
+    "snippet": "We are pleased to offer you the position of Backend Engineer.",
+    "bodyText": "Hi Alex,\n\nFollowing your final conversation with the team, we are pleased to offer you the position of Backend Engineer at Fjord Systems.\n\nCompany: Fjord Systems\nRole: Backend Engineer\nLocation: Malmö, Sweden · Hybrid\n\nThis fictional offer of employment is ready for your review. Please reply with any questions or let us know whether you would like to accept. Respond by 2026-09-14.\n\nWe would be happy to arrange a short call to discuss the details.\n\nWarm regards,\nFjord Systems Hiring Team",
+    "bodyHtml": null
+  },
+  {
+    "gmailMessageId": "fixture-brightline-newsletter-v1",
+    "gmailThreadId": "fixture-thread-brightline-digest",
+    "senderName": "Brightline Digest",
+    "senderEmail": "newsletter@brightline-digest.example",
+    "recipients": ["alex.morgan@inbox.example"],
+    "subject": "Weekly digest: better meetings, interview tips, and a reading list",
+    "receivedAt": "2026-09-08T09:00:00Z",
+    "snippet": "This week's newsletter explores thoughtful work and conversations with creative teams.",
+    "bodyText": "Good morning,\n\nWelcome to this week's newsletter from Brightline Digest.\n\nInside this issue:\n• A designer's interview with a local architect\n• How hiring teams can run more thoughtful meetings\n• A case study of a neighborhood library\n• A special offer on our annual reading club\n\nYou are receiving this digest because you signed up for our weekly reading list.\n\nUnsubscribe or manage your email preferences at our fictional website.",
+    "bodyHtml": null
+  }
+]

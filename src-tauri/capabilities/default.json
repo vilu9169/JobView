@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main-window",
+  "description": "Only the local JobView window can invoke application commands.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}
